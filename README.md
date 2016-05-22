@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Зміст розділу
 1. [Звернення до громадськості](#zvernennya)
 2. [Інструкція з використання](#instruction)
@@ -31,27 +33,17 @@
 
 Зміст програми {#programa}
 --
-1. [Пояснювальна записка](poyasnuvalna_zapyska.md)
-* [Характеристика змісту навчання](kharakteristyka_zmisty_navchannya.md)
-* [1 клас](1/chapter3.md)
-   1. [Узагальнення і систематизація математичних уявлень, сформованих у передшкільний період](1/uzagalnennya__sistematizatsya_matematichnih_uyavlen.md)
-       1. [Ознаки предметів](1/oznaky_predmetiv.md)
-       * [Ознаки, пов’язані із поняттям величини](1/oznaki_povyazani_z_ponyattyam_velychini.md)
-   * [Просторові відношення. Геометричні фігури (протягом року)](1/prostorovi_vidnoshennya_geometrichnix_figuri.md)
-       1. [Просторові відношення](1/prostorovi_vidnoshennya.md)
-       * [Геометричні фігури](1/geometrichni_fguri.md)
-   * [Числа. Дії з числами](1/chisla_dii_z_chislami.md)
-       1. [Лічба](1/lichba.md)
-       * [Натуральні числа 1–10. Число 0](1/naturalni_chisla_1_10_chislo_0.md)
-       * [Арифметичні дії додавання й віднімання чисел у межах 10](1/arifmetichni_dii_dodavannya_i_vdnmannya_chisel.md)
-       * [Табличне додавання й віднімання в межах 10](1/tablichne_dodavannya_i_vidnmannya_v_mezhah_10.md)
-       * [Відношення різницевого порівняння](1/vidnoshennya_riznitsevogo_porivnyannya.md)
-       * [Нумерація чисел у концентрі «Сотня»](1/numeratsiya_chisel_u_kontsentri_sotnya.md)
-           1. [Десяток](1/desyatok.md)
-           * [Усна та письмова нумерація у межах 100](1/usna_ta_pismova_numeratsya_u_mezhah_100.md)
-           * [Додавання й віднімання чисел на основі нумерації у межах 100](1/dodavannya_i_vidnimannya_chisel_na_osnovi_numeratsii.md)
-           * [Додавання й віднімання чисел у межах 100 без переходу через розряд (ознайомлення)](1/dodavannya_i_vidnmannya_chisel_u_mezhah_100_bez_perehody.md)
-       * [Знаходження невідомого компонента арифметичних дій](1/znahodzhennya_nevidomogo_komponenta_arifmetichnih.md)
 
-<div id="hypercomments_widget"></div>
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+1. [Пояснювальна записка](poyasnyuvalna_zapiska.md)
+* [Коло читання](kolo_chitannya.md)
+* [Формування і розвиток навички читання](formuvannya_i_rozvitok_navichki_chitannya.md)
+* [Літературознавча пропедевтика](literaturoznavcha_propedevtika.md)
+* [Досвід читацької діяльності](dosvid_chitatskoyi_diyalnosti.md)
+   1. [Особливості опрацювання художнього твору](osoblivosti_opratsyuvannya_khudozhnogo_tvoru.md)
+   * [Робота з науково-художніми творами](robota_z_naukovo-khudozhnimi_tvorami.md)
+* [Робота з дитячою книжкою; робота з інформацією](robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.md)
+* [Розвиток творчої діяльності учнів на основі прочитаного](rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.md)
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

@@ -4,12 +4,12 @@
 1. [Звернення до громадськості](#zvernennya)
 2. [Інструкція з використання](#instruction)
 3. [Вступне опитування](#vstup)
-4. [Програма з математики для молодшої школи](#programa)
+4. [Програма з літературного читання для молодшої школи](#programa)
 
 Звернення до громадськості {#zvernennya}
 --
 
-Вітаємо на проекті відкритого обговорення програми з математики для молодшої школи.
+Вітаємо на проекті відкритого обговорення програми з літературного читання для молодшої школи.
 
 
 Інструкція з використання платформи {#instruction}
@@ -33,16 +33,85 @@
 
 Зміст програми {#programa}
 --
-
-1. [Пояснювальна записка](poyasnyuvalna_zapiska.md)
-* [Коло читання](kolo_chitannya.md)
-* [Формування і розвиток навички читання](formuvannya_i_rozvitok_navichki_chitannya.md)
-* [Літературознавча пропедевтика](literaturoznavcha_propedevtika.md)
-* [Досвід читацької діяльності](dosvid_chitatskoyi_diyalnosti.md)
-   1. [Особливості опрацювання художнього твору](osoblivosti_opratsyuvannya_khudozhnogo_tvoru.md)
-   * [Робота з науково-художніми творами](robota_z_naukovo-khudozhnimi_tvorami.md)
-* [Робота з дитячою книжкою; робота з інформацією](robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.md)
-* [Розвиток творчої діяльності учнів на основі прочитаного](rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.md)
+1. <a href="http://readmon24.ed-era.com/poyasnyuvalna_zapiska.html">Пояснювальна записка</a>
+2. <a href="http://readmon24.ed-era.com/kolo_chitannya.html">Коло читання</a>
+3. <a href="http://readmon24.ed-era.com/formuvannya_i_rozvitok_navichki_chitannya.html">Формування і розвиток навички читання</a>
+4. <a href="http://readmon24.ed-era.com/literaturoznavcha_propedevtika.html">Літературознавча пропедевтика</a>
+5. <a href="http://readmon24.ed-era.com/dosvid_chitatskoyi_diyalnosti.html">Досвід читацької діяльності (опрацювання текстів різних видів: художніх, науково-художніх)</a>
+<ul type="disc">
+<li><a href="http://readmon24.ed-era.com/osoblivosti_opratsyuvannya_khudozhnogo_tvoru.html">Особливості опрацювання художнього твору</a></li>
+<ul type="circle">
+<li><a href="http://readmon24.ed-era.com/usvidomlennya_zhanrovуkh_osoblуvostey_tvoriv.html">Усвідомлення жанрових особливостей творів</a></li>
+<li><a href="http://readmon24.ed-era.com/smуslovуy_i_strukturnуy_analiz_tvoru.html">Смисловий і структурний аналіз твору</a></li>
+<li><a href="http://readmon24.ed-era.com/zasobу_khudozhnoyi_vуraznosti_emotsiyno-otsinne_stavlennya_do_zmistu_prochуtanogo_proslukhanogo_tvoru.html">Засоби художньої виразності, емоційно-оцінне ставлення до змісту прочитаного (прослуханого) твору</a></li>
+</ul>
+<li><a href="http://readmon24.ed-era.com/robota_z_naukovo-khudozhnimi_tvorami.html">Робота з науково-художніми творами</a></li>
+</ul>
+6. <a href="http://readmon24.ed-era.com/robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.html">Робота з дитячою книжкою; робота з інформацією</a>
+7. <a href="http://readmon24.ed-era.com/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.html">Розвиток творчої діяльності учнів на основі прочитаного</a>
+8. <a href="http://readmon24.ed-era.com/2/2_klas.html">2 клас</a>
+<ul type="disc">
+<li><a href="http://readmon24.ed-era.com/2/kolo_chitannya.html">Коло читання</a></li>
+<li><a href="http://readmon24.ed-era.com/2/formuvannya_i_rozvitok_navichkiv_chitannya.html">Формування і розвиток навички читання</a></li>
+<ul type="circle">
+<li><a href="http://readmon24.ed-era.com/2/sposib_chitannya.html">Спосіб читання</a></li>
+<li><a href="http://readmon24.ed-era.com/2/temp_chitannya.html">Темп читання</a></li>
+<li><a href="http://readmon24.ed-era.com/2/pravilnist_chitannya.html">Правильність читання</a></li>
+<li><a href="http://readmon24.ed-era.com/2/usvidomlenist_chitannya.html">Усвідомленість читання</a></li>
+<li><a href="http://readmon24.ed-era.com/2/viraznist_chitannya.html">Виразність читання</a></li>
+</ul>
+<li><a href="http://readmon24.ed-era.com/2/literaturoznavcha_propedevtika.html">Літературознавча пропедевтика</a></li>
+<li><a href="http://readmon24.ed-era.com/2/dosvid_chitatskoyi_diyalnosti.html">Досвід читацької діяльності</a></li>
+<ul type="circle">
+<li><a href="http://readmon24.ed-era.com/2/osoblivosti_opratsyuvannya_khudozhnogo_tvoru.html">Особливості опрацювання художнього твору</a></li>
+<ul type="square">
+<li><a href="http://readmon24.ed-era.com/2/usvidomlennya_zhanrovoyi_spetsifiki_tvoriv_vpiznavannya_i_nazivannya_zhanru_tvoru.html">Усвідомлення жанрової специфіки творів – впізнавання і називання жанру твору</a></li>
+<li><a href="http://readmon24.ed-era.com/2/smisloviy_i_strukturniy_analiz_tekstu.html">Смисловий і структурний аналіз тексту</a></li>
+<li><a href="http://readmon24.ed-era.com/2/zasobi_khudozhnoyi_viraznosti_emotsiynogo_stavlennya_do_zmistu_tvoru.html">Засоби художньої виразності, емоційного ставлення до змісту твору</a></li>
+</ul>
+<li><a href="http://readmon24.ed-era.com/2/robota_z_naukovo_khudozhnimi_tvorami.html">Робота з науково-художніми творами</a></li>
+</ul>
+<li><a href="http://readmon24.ed-era.com/2/robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.html">Робота з дитячою книжкою; робота з інформацією</a></li>
+<li><a href="http://readmon24.ed-era.com/2/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.html">Розвиток творчої діяльності учнів на основі прочитаного</a></li>
+</ul>
+9. <a href="http://readmon24.ed-era.com/3/3_klas.html">3 клас</a>
+<ul type="disc">
+<li><a href="http://readmon24.ed-era.com/3/kolo_chitannya.html">Коло читання</a></li>
+<li><a href="http://readmon24.ed-era.com/3/formuvannya_i_rozvitok_navichkiv_chitannya.html">Формування і розвиток навички читання</a></li>
+<li><a href="http://readmon24.ed-era.com/3/literaturoznavcha_propedevtika.html">Літературознавча пропедевтика</a></li>
+<li><a href="http://readmon24.ed-era.com/3/dosvid_chitatskoyi_diyalnosti.html">Досвід читацької діяльності</a></li>
+<ul type="circle">
+<li><a href="http://readmon24.ed-era.com/3/osoblivosti_opratsyuvannya_khudozhnogo_tvoru.html">Особливості опрацювання художнього твору</a></li>
+<ul type="square">
+<li><a href="http://readmon24.ed-era.com/3/usvidomlennya_zhanrovoyi_spetsifiki_tvoriv_vpiznavannya_i_nazivannya_zhanru_tvoru.html">Усвідомлення жанрової специфіки творів – впізнавання і називання жанру твору</a></li>
+<li><a href="http://readmon24.ed-era.com/3/smisloviy_i_strukturniy_analiz_tekstu.html">Смисловий і структурний аналіз тексту</a></li>
+<li><a href="http://readmon24.ed-era.com/3/zasobi_khudozhnoyi_viraznosti_emotsiynogo_stavlennya_do_zmistu_tvoru.html">Засоби художньої виразності, емоційно-оцінне ставлення читача до змісту твору</a></li>
+</ul>
+<li><a href="http://readmon24.ed-era.com/3/robota_z_naukovo_khudozhnimi_tvorami.html">Робота з науково-художніми творами</a></li>
+</ul>
+<li><a href="http://readmon24.ed-era.com/3/robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.html">Робота з дитячою книжкою; робота з інформацією</a></li>
+<li><a href="http://readmon24.ed-era.com/3/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.html">Розвиток творчої діяльності учнів на основі прочитаного</a></li>
+</ul>
+10. <a href="http://readmon24.ed-era.com/4/4_klas.html">4 клас</a>
+<ul type="disc">
+<li><a href="http://readmon24.ed-era.com/4/kolo_chitannya.html">Коло читання</a></li>
+<li><a href="http://readmon24.ed-era.com/4/formuvannya_i_rozvitok_navichkiv_chitannya.html">Формування і розвиток навички читання</a></li>
+<li><a href="http://readmon24.ed-era.com/4/literaturoznavcha_propedevtika.html">Літературознавча пропедевтика</a></li>
+<li><a href="http://readmon24.ed-era.com/4/dosvid_chitatskoyi_diyalnosti.html">Досвід читацької діяльності</a></li>
+<ul type="circle">
+<li><a href="http://readmon24.ed-era.com/4/osoblivosti_opratsyuvannya_khudozhnogo_tvoru.html">Особливості опрацювання художнього твору</a></li>
+<ul type="square">
+<li><a href="http://readmon24.ed-era.com/4/usvidomlennya_zhanrovoyi_spetsifiki_tvoriv_upiznavannya_i_nazivannya_zhanru_tvoru.html">Усвідомлення жанрової специфіки творів – впізнавання і називання жанру твору</a></li>
+<li><a href="http://readmon24.ed-era.com/4/smisloviy_i_strukturniy_analiz_tekstu.html">Смисловий і структурний аналіз тексту</a></li>
+<li><a href="http://readmon24.ed-era.com/4/zasobi_khudozhnoyi_viraznosti_emotsiynogo_stavlennya_do_zmistu_tvoru.html">Засоби художньої виразності, емоційно-оцінне ставлення читача до змісту твору</a></li>
+</ul>
+<li><a href="http://readmon24.ed-era.com/4/robota_z_naukovo_khudozhnimi_tvorami.html">Робота з науково-художніми творами</a></li>
+</ul>
+<li><a href="http://readmon24.ed-era.com/4/robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.html">Робота з дитячою книжкою; робота з інформацією</a></li>
+<li><a href="http://readmon24.ed-era.com/4/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.html">Розвиток творчої діяльності учнів на основі прочитаного</a></li>
+</ul>
+</ul>
+</ul>
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

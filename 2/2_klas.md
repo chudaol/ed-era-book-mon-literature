@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # 2 клас
 
 <p><b>Зміст розділу:</b></p>
@@ -25,3 +27,7 @@
 <li><a href="http://readmon24.ed-era.com/2/robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.html">Робота з дитячою книжкою; робота з інформацією</a></li>
 <li><a href="http://readmon24.ed-era.com/2/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.html">Розвиток творчої діяльності учнів на основі прочитаного</a></li>
 </ul>
+
+<div class="js-hypercomments-container">
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

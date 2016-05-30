@@ -16,5 +16,5 @@
 <p>Перелік авторів і творів, які визначені цією змістовою лінією по класах, має рекомендований характер і може бути змінений авторами, укладачами підручників, учителями.</p>
 
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

@@ -1,6 +1,6 @@
 $(document).ready(function () {
   function hypercommnet () {
-   
+
     var interval = setInterval(function() {
       var hypercommentsWidget = $('.js-hypercomments-widget');
       if(hypercommentsWidget.children().length) {
@@ -9,8 +9,8 @@ $(document).ready(function () {
         hypercommentsWidget.removeClass("invisible");
         clearInterval(interval);
       }
-    }, 100);
-   
+    }, 100)
+
     _hcwp = window._hcwp || [];
     _hcwp.push({widget:"Stream", social:"facebook, vk, google, twitter", widget_id: 74671});
     (function() {

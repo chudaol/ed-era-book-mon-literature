@@ -8,5 +8,5 @@
 <p>Реалізація ідей особистісно зорієнтованого навчання потребує індивідуалізації читацької діяльності учнів. Це зумовлює необхідність систематичного застосування диференційованих і творчих завдань, завдань на вибір, врахування в оцінюванні навчальних досягнень (зокрема, темп читання, виразність) індивідуальних особливостей учнів, їх читацьких інтересів.</p>
 
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Коло читання
 
 У 3 класі коло читання розширюється за жанрами і персоналіями, охоплюючи доступні, цікаві для цього віку твори, які мають художньо-естетичну цінність.
@@ -34,3 +36,7 @@
   </tr>
 </tbody>
 </table>
+
+<div class="js-hypercomments-container">
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

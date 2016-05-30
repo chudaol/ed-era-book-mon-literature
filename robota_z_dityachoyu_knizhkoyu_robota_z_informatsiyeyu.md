@@ -13,5 +13,5 @@
 <p>Окреслений зміст роботи реалізується на спеціально відведених уроках, бібліотечних заняттях (проводяться 1 раз на два тижні).</p>
 
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

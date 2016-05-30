@@ -8,5 +8,5 @@
 <p>Аналізу підлягають не всі елементи тексту, а лише ті, які найбільш яскраво виражають ідею твору, що вивчається. Структурний аналіз змісту твору має на меті орієнтування учнів у структурі тексту, відтворення його з опорою на різні види плану, малюнки тощо.</p>
 
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

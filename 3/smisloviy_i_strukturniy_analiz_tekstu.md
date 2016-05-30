@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Смисловий і структурний аналіз тексту 
 
 Смисловий і структурний аналіз тексту має практичну спрямованість і здійснюється у процесі його багаторазового перечитування, під час якого учні поступово готуються до глибшого аналізу та синтезування прочитаного, тобто узагальнення. 
@@ -35,3 +37,7 @@
   </tr>
 </tbody>
 </table>
+
+<div class="js-hypercomments-container">
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

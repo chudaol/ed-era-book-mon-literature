@@ -1,4 +1,4 @@
-# Summary
+### Вступ
 
 * [Вступна частина](README.md)
 * [Пояснювальна записка](poyasnyuvalna_zapiska.md)
@@ -13,6 +13,9 @@
    * [Робота з науково-художніми творами](robota_z_naukovo-khudozhnimi_tvorami.md)
 * [Робота з дитячою книжкою; робота з інформацією](robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.md)
 * [Розвиток творчої діяльності учнів на основі прочитаного](rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.md)
+
+### 2 Клас
+
 * [2 клас](2/2_klas.md)
    * [Коло читання](2/kolo_chitannya.md)
    * [Формування і розвиток навички читання](2/formuvannya_i_rozvitok_navichkiv_chitannya.md)
@@ -30,6 +33,9 @@
        * [Робота з науково-художніми творами](2/robota_z_naukovo_khudozhnimi_tvorami.md)
    * [Робота з дитячою книжкою; робота з інформацією](2/robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.md)
    * [Розвиток творчої діяльності учнів на основі прочитаного](2/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.md)
+
+### 3 Клас
+
 * [3 клас](3/3_klas.md)
    * [Коло читання](3/kolo_chitannya.md)
    * [Формування і розвиток навички читання](3/formuvannya_i_rozvitok_navichkiv_chitannya.md)
@@ -42,6 +48,9 @@
        * [Робота з науково-художніми творами](3/robota_z_naukovo_khudozhnimi_tvorami.md)
    * [Робота з дитячою книжкою; робота з інформацією](3/robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.md)
    * [Розвиток творчої діяльності учнів на основі прочитаного](3/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.md)
+
+### 4 Клас
+
 * [4 клас](4/4_klas.md)
    * [Коло читання](4/kolo_chitannya.md)
    * [Формування і розвиток навички читання](4/formuvannya_i_rozvitok_navichkiv_chitannya.md)

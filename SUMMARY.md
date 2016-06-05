@@ -1,18 +1,20 @@
 ### Вступ
 
 * [Вступна частина](README.md)
+* [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnyuvalna_zapiska.md)
-* [Коло читання](kolo_chitannya.md)
-* [Формування і розвиток навички читання](formuvannya_i_rozvitok_navichki_chitannya.md)
-* [Літературознавча пропедевтика](literaturoznavcha_propedevtika.md)
-* [Досвід читацької діяльності](dosvid_chitatskoyi_diyalnosti.md)
-   * [Особливості опрацювання художнього твору](osoblivosti_opratsyuvannya_khudozhnogo_tvoru.md)
+* [Структура програми](struktura.md)
+  * [Коло читання](kolo_chitannya.md)
+  * [Формування і розвиток навички читання](formuvannya_i_rozvitok_navichki_chitannya.md)
+  * [Літературознавча пропедевтика](literaturoznavcha_propedevtika.md)
+  * [Досвід читацької діяльності](dosvid_chitatskoyi_diyalnosti.md)
+    * [Особливості опрацювання художнього твору](osoblivosti_opratsyuvannya_khudozhnogo_tvoru.md)
        * [Усвідомлення жанрових особливостей творів](usvidomlennya_zhanrovуkh_osoblуvostey_tvoriv.md)
        * [Смисловий і структурний аналіз твору](smуslovуy_i_strukturnуy_analiz_tvoru.md)
        * [Засоби художньої виразності, емоційно-оцінне ставлення до змісту прочитаного (прослуханого) твору](zasobу_khudozhnoyi_vуraznosti_emotsiyno-otsinne_stavlennya_do_zmistu_prochуtanogo_proslukhanogo_tvoru.md)
-   * [Робота з науково-художніми творами](robota_z_naukovo-khudozhnimi_tvorami.md)
-* [Робота з дитячою книжкою; робота з інформацією](robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.md)
-* [Розвиток творчої діяльності учнів на основі прочитаного](rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.md)
+    * [Робота з науково-художніми творами](robota_z_naukovo-khudozhnimi_tvorami.md)
+  * [Робота з дитячою книжкою; робота з інформацією](robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.md)
+  * [Розвиток творчої діяльності учнів на основі прочитаного](rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.md)
 
 ### 2 Клас
 
@@ -29,6 +31,9 @@
        * [Особливості опрацювання художнього твору](2/osoblivosti_opratsyuvannya_khudozhnogo_tvoru.md)
            * [Усвідомлення жанрової специфіки творів – впізнавання і називання жанру твору](2/usvidomlennya_zhanrovoyi_spetsifiki_tvoriv_vpiznavannya_i_nazivannya_zhanru_tvoru.md)
            * [Смисловий і структурний аналіз тексту](2/smisloviy_i_strukturniy_analiz_tekstu.md)
+              * [Первинний аналіз](2/pervуnnуy_analiz.md)
+              * [Поглиблений аналіз](2/poglуblenуy_analiz.md)
+              * [Структурний аналіз](2/strukturnуy_analiz.md)
            * [Засоби художньої виразності, емоційного ставлення до змісту твору](2/zasobi_khudozhnoyi_viraznosti_emotsiynogo_stavlennya_do_zmistu_tvoru.md)
        * [Робота з науково-художніми творами](2/robota_z_naukovo_khudozhnimi_tvorami.md)
    * [Робота з дитячою книжкою; робота з інформацією](2/robota_z_dityachoyu_knizhkoyu_robota_z_informatsiyeyu.md)

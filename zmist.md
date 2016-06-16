@@ -2,15 +2,16 @@
 
 # Зміст програми
 
-<ul class="nav nav-tabs">
-<li class="active"><a data-toggle="tab" href="#home">2 клас</a></li>
-<li><a data-toggle="tab" href="#menu1">3 клас</a></li>
-<li><a data-toggle="tab" href="#menu2">4 клас</a></li>
-</ul>
-
-<div class="tab-content">
-<div id="home" class="tab-pane fade in active">
-<h3><a href="http://readmon24.ed-era.com/2/2_klas.html">2 клас</a></h3>
+<div>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">2 клас</a></li>
+    <li role="presentation"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">3 клас</a></li>
+    <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">4 клас</a></li>
+  </ul>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="home"><h3><a href="http://readmon24.ed-era.com/2/2_klas.html">2 клас</a></h3>
 <ul type="disc">
 <li><a href="http://readmon24.ed-era.com/2/kolo_chitannya.html">Коло читання</a></li>
 <li><a href="http://readmon24.ed-era.com/2/formuvannya_i_rozvitok_navichkiv_chitannya.html">Формування і розвиток навички читання</a></li>
@@ -41,8 +42,7 @@
 <li><a href="http://readmon24.ed-era.com/2/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.html">Розвиток творчої діяльності учнів на основі прочитаного</a></li>
 </ul>
 </div>
-<div id="menu1" class="tab-pane fade">
-<h3><a href="http://readmon24.ed-era.com/3/3_klas.html">3 клас</a></h3><ul type="disc">
+<div role="tabpanel" class="tab-pane" id="menu1"><h3><a href="http://readmon24.ed-era.com/3/3_klas.html">3 клас</a></h3><ul type="disc">
 <li><a href="http://readmon24.ed-era.com/3/kolo_chitannya.html">Коло читання</a></li>
 <li><a href="http://readmon24.ed-era.com/3/formuvannya_i_rozvitok_navichkiv_chitannya.html">Формування і розвиток навички читання</a></li>
 <li><a href="http://readmon24.ed-era.com/3/literaturoznavcha_propedevtika.html">Літературознавча пропедевтика</a></li>
@@ -60,8 +60,7 @@
 <li><a href="http://readmon24.ed-era.com/3/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.html">Розвиток творчої діяльності учнів на основі прочитаного</a></li>
 </ul>
 </div>
-<div id="menu2" class="tab-pane fade">
-<h3><a href="http://readmon24.ed-era.com/4/4_klas.html">4 клас</a></h3>
+<div role="tabpanel" class="tab-pane" id="menu2"><h3><a href="http://readmon24.ed-era.com/4/4_klas.html">4 клас</a></h3>
 <ul type="disc">
 <li><a href="http://readmon24.ed-era.com/4/kolo_chitannya.html">Коло читання</a></li>
 <li><a href="http://readmon24.ed-era.com/4/formuvannya_i_rozvitok_navichkiv_chitannya.html">Формування і розвиток навички читання</a></li>
@@ -80,6 +79,7 @@
 <li><a href="http://readmon24.ed-era.com/4/rozvitok_tvorchoyi_diyalnosti_uchniv_na_osnovi_prochitanogo.html">Розвиток творчої діяльності учнів на основі прочитаного</a></li>
 </ul>
 </ul>
+</div>
 </div>
 </div>
 
